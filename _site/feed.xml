@@ -2,20 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Arman Jindal</title>
-    <description>From the bits that run computers to the meaning that runs us. Essays ranging from matter to mind to meaning.</description>
+    <description></description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Peacefullness and the Pandemic</title>
+        <title>The Pandemic and Peacefulness Part I</title>
         
         
-          <description>
+          <description>&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;No talking, no exercising, no reading, no writing, and no technology. We, over 200 men and women — ranging from ardent atheists to devout Hindus and from Rajasthani farmers to European travelers — came together on the outskirts of Jaipur, India, for ten days in January. In silence, we meditated. It is now, in quarantine, I realize the true significance of this meditation retreat for me.&lt;/p&gt;
+
 </description>
         
-        <pubDate>Sun, 10 Nov 2013 15:48:00 +0530</pubDate>
-        <link>http://localhost:4000/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2013/welcome-to-jekyll/</guid>
+        <pubDate>Fri, 24 Jul 2020 00:00:00 +0530</pubDate>
+        <link>http://localhost:4000/2020/the-pandemic-and-peacefulness-part-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/the-pandemic-and-peacefulness-part-1/</guid>
       </item>
     
   </channel>

@@ -1,7 +1,7 @@
 name: Arman Jindal
-description: My bit of the internet
+description: 
 meta_description: 
-
+title: armanjindal.github.io
 aboutPage: true
 
 markdown: kramdown
@@ -9,9 +9,9 @@ highlighter: rouge
 
 plugins: [jekyll-paginate]
 paginate: 20
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
-baseurl: 'armanjindal.github.io'
+#domain_name: 'http://yourblog-domain.com'
+google_analytics: 'UA-172315470-1'
+#baseurl: 'armanjindal.github.io'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
@@ -35,9 +35,4 @@ defaults:
             type: posts
         values:
             layout: post
-    -
-        scope:
-            path: ""
-            type: drafts
-        values:
-            layout: post
+

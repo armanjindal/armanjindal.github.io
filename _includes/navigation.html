@@ -1,10 +1,7 @@
 <nav class="main-nav">
-    {% if page.url != "/" %}
-        <a href="{{ "/" | relative_url  }}"> <span class="arrow">←</span> Main </a>
-    {% endif %}
- 
-    <a href="{{ "/" | relative_url  }}site"> Site </a>
-    <a href="{{ "/" | relative_url  }}reading"> Reading </a>
-
+    <a href="{{ "/" | relative_url  }}site">Site</a>
+    <a href="{{ "/" | relative_url  }}">  Writing  </a> 
+    <!-- <a href="{{ "/" | relative_url  }}reading">Reading </a>
+    <a href="{{ "/" | relative_url  }}notes"> Notes </a> -->
     <!-- <a class="cta" href="{{ "/" | relative_url  }}feed.xml">Subscribe</a> -->
 </nav>

@@ -1,6 +1,6 @@
 /* Reset */
 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{border:0;font-size:100%;font:inherit;vertical-align:baseline;margin:0;padding:0}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}body{line-height:1}blockquote,q{quotes:none}blockquote:before,blockquote:after,q:before,q:after{content:none}table{border-collapse:collapse;border-spacing:0}
-*, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
+*, *:before, *:after { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; font-family: 'Roboto Mono', sans-serif;}
 
 /* Clearfix */
 .clearfix:after {
@@ -51,27 +51,28 @@ margin-bottom: 20px;
 html, body { height: 100%; }
 
 body {
-	font:16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;
-	color: #666;
+	font:16px/1 'Roboto', sans-serif;
+	color: black;
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
 }
 
 h1 {
-	font-size: 30px;
-	letter-spacing: -1px;
+	font-weight: 400;
+	letter-spacing: 0px;
+	font-size: 20px;
 	color: #222;
-	font-weight: bold;
 }
 
 h2 {
-	font: 19px/1.3em Georgia,serif;
+	font-family: 'Roboto', sans-serif;
+	font: 19px/1.3em;
 	color: rgba(30, 32, 37, 0.71);
 }
 
 .profile #wrapper {
-	padding: 100px 40px 0px;
-	max-width: 600px;
+	padding: 40px 40px 0px;
+	max-width: 750px;
 	margin: 0 auto;
 }
 
@@ -110,9 +111,8 @@ h2 {
 
 nav.main-nav {
 	padding: 20px 20px 0;
-
 	/*max-width: 600px;*/
-	/*width:100%;*/
+	width:100%;
 	background: #fff;
 	background: rgba(255,255,255,.90);
 	margin: 0 auto;
@@ -125,15 +125,17 @@ nav.main-nav a {
 	top: 8px;
 	right: 6px;
 	padding: 8px 12px;
-	color: #5badf0;
+	color: #666;
 	font-size: 13px;
 	/*font-weight: bold;*/
 	line-height: 1.35;
 	border-radius: 3px;
-
 }
+nav.main-nav a:hover {
+	color: #6441A4;
+}
+
 nav.main-nav a.cta {
-	background: #5badf0;
 	color: #fff;
 	margin-left: 12px;
 }
@@ -141,7 +143,7 @@ nav.main-nav a.cta {
 #wrapper {
   max-width: 600px;
   margin: 0 auto;
-  padding: 60px 40px 100px 40px;
+  padding: 10px 40px 100px 40px;
 }
 
 #wrapper.home {
@@ -165,11 +167,11 @@ a,
 #post-list li:hover .dates,
 #title:hover {
 	text-decoration: none;
-	color: #5badf0;
-	color: #5694f1;
+	color: #6441A4;
+	color: #6441A4;
 }
 
-p a { color: #5694f1; }
+p a { color: #6441A4; }
 
 /*Transitions*/
 a,
@@ -186,7 +188,7 @@ ul 	{ margin:0; padding:0; }
 li	{ list-style-type:circle; list-style-position:inside; }
 
 /* Line Height */
-#post-body, p { line-height:1.7; }
+#post-body, p { line-height:1.7; color: black;}
 
 b, strong { font-weight: 500;
   color: #1E2025; }
@@ -212,7 +214,7 @@ em, i { font-style: italic; }
 .home h1 {
 	font-size: 30px;
 	letter-spacing: -1px;
-	color: #222;
+	color: #6441A4;
 	font-weight: bold;
 }
 
@@ -228,7 +230,7 @@ em, i { font-style: italic; }
 
 .post h1 {
 	margin-bottom: 20px;
-	color: #222;
+	color: #6441A4;
 	font: 300 32px/1.4em "Helvetica Neue", Helvetica,Arial,sans-serif;
 }
 
@@ -258,7 +260,7 @@ em, i { font-style: italic; }
 	margin-top: 2px;
 }
 
-h3, h4, h5 { color:#333; }
+h3, h4, h5 { color:#6441A4; }
 
 h3 { font-size:20px; font-weight: 400; }
 h4 { font-size:16px; font-weight:bold; }
@@ -417,9 +419,9 @@ Post List
 }
 
 #archive-link:hover {
-	background: #5694f1;
+	background: #6441A4;
 	color: #fff;
-	box-shadow: 0 0 0 1px #5694f1;
+	box-shadow: 0 0 0 1px #6441A4;
 }
 
 #archive-link span {
@@ -452,7 +454,7 @@ Post List
 	margin-bottom: 40px;
 	padding-bottom: 40px;
 	margin-top: 40px;
-	color:#444;
+	color:#6441a4b4;
 	border-bottom: 1px solid #eee;
 }
 
@@ -574,7 +576,7 @@ h2.month {
 }
 
 #archive-list li a:hover,#archive-list li:hover .dates {
-	color: #5694f1;
+	color: #6441A4;
 }
 
 #post-meta img.avatar {
@@ -595,7 +597,7 @@ h2.month {
 
 #post-list.archive.readmore a{
 	font: 400 16px/1.6 "Helvetica Neue",helvetica,Arial,sans-serif;
-	color: #5694f1;
+	color: #6441A4;
 }
 
 #post-list.archive.readmore a:hover{

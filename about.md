@@ -4,7 +4,9 @@ permalink: site/
 profile: false
 ---
 # Site 
-*This is a metapage outlining armanjndal.github.io, what it is and why I am doing this*
+## Test Header 2
+### Header 3
+#### Header 4
 
 The meta-philosophy of this site is heavily influenced by the Gwern at www.gwern.net. His longtermist approach to learning and the target audience he writes for are at the core at my place on the internet. I am also motivated by a number of other factors. I believe that social mediat has limited the medium authentic digital self-expression. I write to recieve feedback, engage and collaborate with other programmers and thinkers about the **things that matter**. Knowledge is sharing and discussing a multitude of ideas. I want to engage in this to the best of my ability using the internet. 
 
