@@ -1,5 +1,5 @@
 ---
-title:  "The Pandemic and Peacefulness Part I"
+title:  "Pandemic and Peacefulness Part I"
 description: Reflection on Meditation and Mental Health in the Context of Covid-19
 last-edit: 2020-07-24
 date: 2020-07-24 

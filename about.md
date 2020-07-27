@@ -13,7 +13,7 @@ This site is where I share my thinking and writing. I want to engage and collabo
 I want to document what I learn as I learn it. As a 20-year-old, I literally cannot comprehend how time exceeding my age *feels*. The upper limit on what I can learn over 20, 25, 30 years is beyond comprehension. I would hope that the knowledge I share might be valuable to someone else. If it isn't, at least I can track my changing interests and positions as they develop. We overestimate what we can do in a day, but underestimate what we can do in a year. The promise of compound interest on money doesn't excite me nearly as much as compound interest on knowledge. 
 This site, based in many robust long term technology, is meant to last. 
 
-> The best time to plant a tree was 20 years ago, the next best time is today
+> The best time to plant a tree was 20 years ago, the next best time is today 
 
 Lastly, I believe that social media has limited authentic digital self-expression. Social media is a way we form a perception about other people and how they perceive us. Our carefully curated social media (or lack thereof) become a statement *who we are*. The constraints of the medium of self-expression end up constraining means of identity.  I want to express myself more authentically. This site, where I have full control, lets me do this. 
 
