@@ -17,7 +17,7 @@ This site, based in many robust long term technology, is meant to last.
 
 Lastly, I believe that social media has limited authentic digital self-expression. Social media is a way we form a perception about other people and how they perceive us. Our carefully curated social media (or lack thereof) become a statement *who we are*. The constraints of the medium of self-expression end up constraining means of identity.  I want to express myself more authentically. This site, where I have full control, lets me do this. 
 
-The meta-philosophy and design of this site, especially the longterm view on learning, is heavily influenced by [Gwern](www.gwern.net) 
+The meta-philosophy and design of this site, especially the longterm view on learning, is heavily influenced by Gwern [1]
 
 ### Content
 The *Writing* page of the site includes long-form essays range. From statistics to psychology to self-experimentation to reflections on learning and the nature of knowledge, the content ranges from the matter that makes up the world and the meaning we find in it. I am majoring in both Computer Science and Philosophy, so they tend to seep into my writing.  I am writing to an educated reader but assume no prior domain knowledge. If I am not clear, please let me know. I aim for clarity above all else. 
@@ -44,4 +44,5 @@ The links I provide will point as directly as I can find to the specific idea I 
 ### On Completion 
 Completing an essay is always a difficult thing. So to sidestep this, everything is a draft, and I will perpetually be editing. My mind is changing, and in response to well-argued points, I will update my essays to the best of my ability.  So writing to me at arman.jindal@columbia.edu is always worth it. I will, of course,  give credit and to continually re-write and update my beliefs in light of new evidence is the purpose of this site.
 
+[1]: https://www.gwern.net/About
 {% include footer.html %}
