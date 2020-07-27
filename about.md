@@ -4,7 +4,7 @@ permalink: site/
 profile: false
 ---
 
-*A page on what I am doing and with this site, and its metaphilosophy*
+*A page on what I am doing with this site, and its metaphilosophy*
 
 > If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them - George Orwell 
 
