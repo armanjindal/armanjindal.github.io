@@ -1,6 +1,6 @@
 ---
 title:  "Pandemic and Peacefulness Part I"
-description: Reflection on Meditation and Mental Health in the Context of Covid-19
+description: Reflection on Meditation and Mental Health
 last-edit: 2020-07-24
 date: 2020-07-24 
 words: 3,628 
@@ -25,7 +25,7 @@ Third, I use the Buddhist concept of *duhkha* in this essay to refer to widespre
 Lastly, I am neither qualified, nor do I intend to write about how to meditate. I highly recommend the Headspace or Waking Up applications for this. I have used Headspace for over three years. Andy, the creator, is knowledgeable, experienced, and teaches meditations with all the nuance and simplicity that it requires. He trained as a monk, so the guided meditations are authentic to the tradition. At the same time, he brings the ideas and perspective of meditation into the modern world exceptionally. I also recently enjoyed Sam Harris' Waking Up app. Sam, for all his faults, has always been brilliant on the subject of meditation. His theoretical approach emphasizes the nature of consciousness. Both are great. Now, when the mental well-being of everyone is a serious concern, it is an excellent time to give either a try.
 
 #### The *Vipassana* Retreat
-On the retreat, we practiced a meditation technique called *Vipassana*. One of the oldest recorded meditation techniques, the practice of *Vipassana*, was first developed in the Satipatthana Sutta (Foundations of Mindfulness) — a core text traced directly to the Buddha[2]. The Pali word *Vipassana* roughly translates to "insight." 
+On the retreat, we practiced a meditation technique called *Vipassana*. One of the oldest recorded meditation techniques, the practice of *Vipassana*, was first developed in the Satipatthana Sutta (Foundations of Mindfulness) — a core text traced directly to the Buddha[^2]. The Pali word *Vipassana* roughly translates to "insight." 
 
 In *Vipassana* meditators focus their attention on spontaneous physical sensations. They observe sensations and begin to notice their mind's automatic reactive patterns. Our minds continuously react to both physical and mental stimuli  which include thoughts, memories, moods, other objects of cons. These reactions shape the "narrative" the mind continuously constructs and unconsciously projects onto the world. The narratives are our minds running commentary on our experience. In these narratives, we relive the past, judge the present, and project into the future.  We create the conditions for suffering when lost in our self-constructed narratives. The problem is not that we create these narratives, but that we are unaware of them.
 
@@ -54,7 +54,7 @@ Most proponents of the biological model of mental illness have a far more nuance
 
 On a societal level, this understanding is convenient since it abdicates responsibility. The mentally "ill" individual has a "disease" that doctors "treat." We do not need to critically examine the cultural, socio-political climate, or economic circumstances of the individual. We ignore and minimize the situation which bred the "illness" and blame it on biology. We stick our heads in the sand and let doctors tell us we are chronically in need of anti-depressants, anti-anxiety medication, and pills of all kinds to function. Pills are far easier to swallow than uncomfortable truths. BigPharma profits and governments don't have to fund expensive mental health initiatives. To question this thinking, they say, is to minimize the real suffering those with mental illness face. Nothing could be farther from my intention. 
 
-This misconception harms individuals in two ways. First, treatment is indiscriminately medical. Psychiatry has morphed into a drug prescription - many have turned away from therapy altogether. Psychiatric drugs are covered far more by health insurance over therapy in the US.[3] Usage and spending on psychiatric drugs have increased steadily. The latest estimate I could find from 2013(!) found that 1 in 6 American adults, roughly 17%, were taking at least one psychiatric drug, up from 10% in 2011.[4]  I do not doubt medication is needed, but it is overused. Some argue it causes more harm than good.[5] The increasing medicalization of mental health pushes professionals to focus on treating symptoms, not people. 
+This misconception harms individuals in two ways. First, treatment is indiscriminately medical. Psychiatry has morphed into a drug prescription - many have turned away from therapy altogether. Psychiatric drugs are covered far more by health insurance over therapy in the US.[^3] Usage and spending on psychiatric drugs have increased steadily. The latest estimate I could find from 2013(!) found that 1 in 6 American adults, roughly 17%, were taking at least one psychiatric drug, up from 10% in 2011.[^4]  I do not doubt medication is needed, but it is overused. Some argue it causes more harm than good.[^5] The increasing medicalization of mental health pushes professionals to focus on treating symptoms, not people. 
 
 Second, these misconceptions confuse a personal understanding of suffering. Suffering, professionals say either outright or implicit in treatment, is the result of abnormal biological functioning. To reduce all experience of suffering to biology is false and out of touch with daily experience. Mentally "healthy" people suffer all the time for a range of reasons.  We suffer all the time because of perception, and we suffer many times in healthy ways. These other causes of suffering, at best, are acknowledged as minor and, at worst, ignored when compared against biology. The medicalized, binary minimizes the space to suffer in dangerous ways. For a mentally "healthy" person, there is no space for them to suffer and feel valid without a diagnosis. Psychological suffering has become medicalized, and this is entirely untrue. 
 
@@ -62,7 +62,7 @@ These persistent misconceptions rest on an overly simplistic concept of psycholo
 
 Before I continue, I want to be clear. The distinction between *duhkha* and psycho-pathological suffering in no way depreciates the painful reality of mental disorders. Some mental disorders cause suffering because of abnormal biological functioning. It can be incapacitating and overwhelming. Most diagnosed experience both kinds of suffering, and almost everyone experiences dukkha. My point is biological suffering is not the only or the most common cause of suffering. Culturally, the Western world has thought it is. 
 
-Dr. Robert Sapolsky, a prominent professor of biology and neurology at Stanford, is one of many researchers whose work is gesturing toward a broader understanding of psychological distress. Sapolsky found a mismatch between the stressors we face in the modern world and our response to them. The stress response, commonly known as fight-flight, is designed to prepare you for immediate danger. Your system floods with a cocktail of neurochemicals to prepare you for fight-flight. But in today's world, we trigger the response more frequently and for prolonged periods. Not because our lives are in danger, but because we have a deadline, feel embarrassed, or as though our social status is threatened, for example. Filled with "psycho-social stressors," the modern world, and our response to it keeps us chronically stressed. The biological consequences are devastating: compromised immune system, an increased risk of early-onset diabetes, erectile dysfunction, disrupted menstrual cycles, obesity, anxiety, depression, heart disease, to name a few.[6]
+Dr. Robert Sapolsky, a prominent professor of biology and neurology at Stanford, is one of many researchers whose work is gesturing toward a broader understanding of psychological distress. Sapolsky found a mismatch between the stressors we face in the modern world and our response to them. The stress response, commonly known as fight-flight, is designed to prepare you for immediate danger. Your system floods with a cocktail of neurochemicals to prepare you for fight-flight. But in today's world, we trigger the response more frequently and for prolonged periods. Not because our lives are in danger, but because we have a deadline, feel embarrassed, or as though our social status is threatened, for example. Filled with "psycho-social stressors," the modern world, and our response to it keeps us chronically stressed. The biological consequences are devastating: compromised immune system, an increased risk of early-onset diabetes, erectile dysfunction, disrupted menstrual cycles, obesity, anxiety, depression, heart disease, to name a few.[^6]
 
 The relevant insight from Sapolsky's work is that an unhealthy perception of the stressor causes biological consequences. In the simplest terms, we overreact. Even though his work focuses on the biological effects, it points to perception as the underlying cause. Both cause and effect are compelling, of course, but a clear understanding of the cause is far more useful. With psycho-pathological suffering as the effect caused by abnormal biological functioning, it follows that medications are a solution. With *duhkha* as the effect caused by self-harming perception, it follows that meditation is a solution. 
  
@@ -89,17 +89,22 @@ In this part (Part I), I motivated meditation as training in self-awareness to d
 
 When I was 18, talking about meditation was embarrassing. It was not cool, and it didn't fit the toxic masculine mold of invulnerability that society had drilled into me. Now I can't shut up about it. It is the topic of my first piece of writing I have publicly published. If you read no further or skimmed the entire essay, I hope you give meditation an honest try. It is an essential part of who I am, and certainly changed me and my perspective for the better. 
 
-[1]: https://en.wikipedia.org/wiki/Du%E1%B8%A5kha
-[2]: https://tricycle.org/magazine/vipassana-meditation/ 
-[3]: https://www.jstor.org/stable/3765488
-[4]: https://www.scientificamerican.com/article/1-in-6-americans-takes-a-psychiatric-drug/
-[5]: https://blogs.scientificamerican.com/cross-check/psychiatrists-must-face-possibility-that-medications-hurt-more-than-they-help/
-[6]: https://news.stanford.edu/news/2007/march7/sapolskysr-030707.html
 
-
+---
 
 Thank you to the wonderful Isabelle Pride and brilliant Mohini Gupta for reading (multiple!) drafts and making edits to this essay. Thanks to many others I am close to for reading this and their feedback. 
 
 *Not yet published but coming soon!
 
-To attend a similar retreat anywhere in the world, click here go to https://www.dhamma.org/. The retreats are free!
+To attend a similar retreat anywhere in the world, click [here](https://www.dhamma.org/)  The retreats are free!
+
+### Footnotes:
+[^1]: [Duhkha Wikipedia](https://en.wikipedia.org/wiki/Du%E1%B8%A5kha)    
+[^2]: https://tricycle.org/magazine/vipassana-meditation/ 
+[^3]: https://www.jstor.org/stable/3765488
+[^4]: https://www.scientificamerican.com/article/1-in-6-americans-takes-a-psychiatric-drug/
+[^5]: https://blogs.scientificamerican.com/cross-check/psychiatrists-must-face-possibility-that-medications-hurt-more-than-they-help/
+[^6]: https://news.stanford.edu/news/2007/march7/sapolskysr-030707.html
+
+
+
