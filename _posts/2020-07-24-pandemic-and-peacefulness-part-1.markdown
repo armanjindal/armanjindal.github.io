@@ -78,7 +78,7 @@ Many researchers have studied *duhkha* without using the term. In many instances
 
 I do not think there is a clear, clinical way to tease the two apart. I anticipate many think that the conceptual distinction loses its value because it cannot be objectively identified across patients to categorize suffering. I recognize the lack of objectivity as a practical limitation, which makes *duhkha* prone to misuse or misidentification, but not as a problem by itself. To, based on a need for objectivity, reduce psychological suffering to biology is inexcusably harmful. The fetish for objectivity is one I will discuss in part III of the essay. 
 
-Unlike medical treatment, a treatment that focuses on perception increases the sense of agency rather than diminishes it. This feeling a sense of agency increases resiliance. The correlation between resiliance and better mental health is significant[^7]. *duhkha* can be something each of us can overcome with meditation, and it is an empowering process. We can find confidence and refuge in treating ourselves. I am arguing for a place for meditation in addition to, and not (necessarily) in place of, existing mental health treatments—a place it deserves in medical systems and for ourselves.  
+Unlike medical treatment, a treatment that focuses on perception increases the sense of agency rather than diminishes it. This sense of agency increases resilience, and leads to better mental health[^7]. *Duhkha* can be something each of us can overcome with meditation, and it is an empowering process. One finds confidence in treating themselves. I am arguing for a place for meditation in addition to, and not (necessarily) in place of, existing mental health treatments. It is a place it deserves in medical systems and in society for everyone's wellbeing.  
 
 ### Conclusion
 Meditation is not a silver bullet for suffering, mental disorders, happiness, a good life, or for society's challenges. Non-judgmental observation of the mind and body develops self-understanding and awareness. Equipped with the meditator's perspective, we can better understanding of dukkha. With it, one can navigate and experience life more fully. 
@@ -90,10 +90,11 @@ In this part (Part I), I motivated meditation as training in self-awareness to d
 When I was 18, talking about meditation was embarrassing. It was not cool, and it didn't fit the toxic masculine mold of invulnerability that society had drilled into me. Now I can't shut up about it. It is the topic of my first piece of writing I have publicly published. If you read no further or skimmed the entire essay, I hope you give meditation an honest try. It is an essential part of who I am, and certainly changed me and my perspective for the better. 
 
 
+**END of Part I**
 
 ---
 
-Thank you to the wonderful Isabelle Pride and brilliant Mohini Gupta for reading (multiple!) drafts, making edits to this essay, and discussing the ideas. Thanks to many others for reading and helped me clarify what I was trying to say. I am working on the next two parts, which I will publish before the end of August!
+Thank you to the wonderful Isabelle Pride and brilliant Mohini Gupta for reading multiple drafts, making edits to this essay, and discussing them with me. Thanks to many others for reading versions and for their feedback. I am working on the next two parts, which I will publish before the end of August!
 
 This essay is the first I have written to publish. If you have **any** feedback, from a missing comma to disagreement with the premise, please email me at [arman.jindal@columbia.edu](mailto:arman.jindal@columbia.edu). My philosophy is to always updating this essay whenever I feel like it is necessary. Knowledge must be shared and questioned. Beliefs must be updated in light of new evidence or unconsidered experience. I could think of no more delightful compliments than critical feedback. If you have had an experience related to anything I have discussed, I would love to hear about it. 
 

@@ -199,8 +199,8 @@ li	{ }
 /* Line Height */
 #post-body, p { line-height:1.7; color: black;}
 
-b, strong { font-weight: 500;
-  color: #1E2025; }
+b, strong { font-weight: bold;
+  color: #6441A4; }
 em, i { font-style: italic; }
 
 #title {
@@ -292,8 +292,10 @@ p.small {
 }
 
 blockquote {
-	padding-left: 15px;
-	border-left: 3px solid #eee;
+    padding-left: 15px;
+    border-left: 3px solid #918e8e;
+    background: #eeeeeea1;
+    font-style: italic;
 }
 
 hr {
