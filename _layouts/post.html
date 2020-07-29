@@ -12,7 +12,7 @@ archive: true
         {{content}}
     </section>
 </article>
-<footer id="post-meta" class="clearfix">
+<!-- <footer id="post-meta" class="clearfix">
         <div>
             <span class="dark">{{ site.author }}</span>
             <span>{{ site.description }}</span>
@@ -22,7 +22,7 @@ archive: true
     <section id="sharing">
         {% include share.html %}
     </section>
-</footer>
+</footer> -->
 
 <!-- Disqus comments -->
 {% if site.disqus %}
@@ -44,4 +44,4 @@ archive: true
     </ul>
 {% endif %}
 
-
+{% include footer.html %}
