@@ -23,7 +23,7 @@ The meta-philosophy and design of this site, especially the longterm view on lea
 
  *Reading* (TBA) has a summary, discussion, and criticism of essential books and articles I read. The first is on Eichmann in Jerusalem by Hannah Arendt (TBA).  
 
-The icon in the right is for [my Github].  You can find the code for this site and other projects. For a potential employer, please reach out since the majority of the code for my classes, specifically for Operating Systems, is private at the professor's request. 
+The icon in the right is for [my Github](https://github.com/armanjindal/armanjindal.github.io).  You can find the code for this site and other projects. For a potential employer, please reach out since the majority of the code for my classes, specifically for Operating Systems, is private at the professor's request. 
 
 
 ### Target Audience 
