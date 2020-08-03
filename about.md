@@ -8,7 +8,7 @@ profile: false
 
 > If people cannot write well, they cannot think well, and if they cannot think well, others will do their thinking for them - **George Orwell** 
 
-This site is where I share my writing, reading, programming, and learning. Below are the primary (conscious) reasons why. 
+This site is where I share my writing, reading, programming, and learning. Below are the primary reasons why. 
 
 First, [knowledge](https://en.wikipedia.org/wiki/Knowledge) is meaningful insofar as it can be shared and questioned. The best way to communicate knowledge is clear, concise writing. So, on this site, I strive to write clearly above all else, and I design it to make the reading experience as enjoyable as possible. 
 
@@ -16,7 +16,7 @@ Second, this site is an endless, permanent document of my time spent learning. A
 
 This site is built to last using plain-text markdown pages, converted to a website with the Jekyll framework, hosted on GitHub where I have version control, and backed up regularly on my machine and external storage. I want to track my changing interests and opinions as they develop until I die. I hope you might find what I have put up useful and exciting. 
 
-Lastly, this site allows me to express myself online more authentically than on social media. The medium of social media molds content to fit into an attention market place driven by algorithms meant to maximize engagement. Designed to encourage distracted, constant use, everything I post on social media is competing with an bottomless timeline of ads, click-bait, pithy captions, and stunning pictures. It is bizarre that this is our preferred medium of digital self-expression. Carefully curated social media (or lack thereof) has become a statement about *who we are*. As a medium, it limits and changes what I say in ways I do not like and often do not notice. Perhaps a futile and clunky solution, I am building this site from the ground up to express myself more authentically (at least, that is what I tell myself!).
+Lastly, this site allows me to express myself online more authentically than on social media. The medium of social media molds content to fit into an attention market place driven by algorithms that are designed to maximize engagement and encourage distracted, constant use. What I publish on this site is not meant to compete with an bottomless timeline of ads, click-bait, pithy captions, and stunning pictures. As a medium, it limits and changes what I say in ways I do not like and often do not notice. It is bizarre that this is our preferred medium of digital self-expression. Carefully curated social media (or lack thereof) has become a statement about *who we are*. Perhaps a futile and clunky solution, I am building this site from the ground up to express myself more authentically (at least, that is what I tell myself!).
 
 ---
 ### The Pages
