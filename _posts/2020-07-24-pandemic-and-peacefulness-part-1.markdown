@@ -92,7 +92,7 @@ In this part (Part I), I motivated meditation as training in self-awareness to d
 When I was 18, talking about meditation was embarrassing. It was not cool, and it didn't fit the toxic masculine mold of invulnerability that had been drilled into me. Now I can't shut up about it. I hope you give meditation an honest try. It is an essential part of who I am, and certainly changed me and my perspective for the better. 
 
 
-**END of Part I**
+**END OF PART I**
 
 
 Thank you to the wonderful Isabelle Pride and brilliant Mohini Gupta for reading multiple drafts, making edits to this essay, and discussing these ideas with me. Thanks to many others for reading versions and for their feedback. I am working on the next two parts, which I will publish before the end of August!
