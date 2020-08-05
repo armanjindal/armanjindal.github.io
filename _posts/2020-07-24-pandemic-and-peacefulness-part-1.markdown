@@ -10,7 +10,7 @@ time: 14 min 30 sec
 ### Introduction
 No talking, no exercising, no reading, no writing, and no technology. We, over 200 men and women — ranging from ardent atheists to devout Hindus and from Rajasthani farmers to European backpackers — came together on the outskirts of Jaipur, India, for ten days in January. In silence, we meditated. Now, in quarantine, I realize genuinely how significant this meditation retreat was for me.  
 
-This essay, published in three parts, is on the observations I made and insights I gained on the meditation retreat. These insights are on the nature of mind and its capacity to cause suffering gained from experience. The insights, in part, form what I call a *meditator's perspective* — a perspective that is relevant in the context of the pandemic for two reasons.
+This essay, published in three parts, is on the observations I made and insights I gained on the meditation retreat. These insights are on the nature of mind and its capacity to cause suffering gained from experience. These, in part, form what I call a *meditator's perspective* — a perspective that is relevant in the context of the pandemic for two reasons.
 
 First, the daily practice of meditation and the perspective it helps me adopt is an incredible tool, now more so than before. There are plenty of bad days, but meditation cushions the lows and sweetens the highs. Second, the retreat and pandemic put me in a psychologically similar situation. In both, the combination of heightened isolation with minimal external stimulation forced me to reckon with and experience my mind more fully. Thus an analysis of the retreat can help us understand, cope, and thrive in the pandemic. 
 
