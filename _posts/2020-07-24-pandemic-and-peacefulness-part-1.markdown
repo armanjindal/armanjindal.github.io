@@ -1,13 +1,13 @@
 ---
 title:  "Pandemic and Peacefulness Part I"
 description: Reflections on Meditation and Mental Health
-last-edit: 2020-09-13
+last-edit: 2020-08-13
 date: 2020-07-24 
 words: 3,628 
 time: 14 min 30 sec
 ---
 
-## Introduction
+### Introduction
 No talking, no exercising, no reading, no writing, and no technology. We, over 200 men and women — ranging from ardent atheists to devout Hindus and from Rajasthani farmers to European backpackers — came together on the outskirts of Jaipur, India, for ten days in January. In silence, we meditated. Now, in quarantine, I realize genuinely how significant this meditation retreat was for me.  
 
 This essay, published in three parts, is on the observations I made and insights I gained on the meditation retreat. These insights are on the nature of mind and its capacity to cause suffering gained from experience. These, in part, form what I call a *meditator's perspective* — a perspective that is relevant in the context of the pandemic for two reasons.
@@ -82,7 +82,7 @@ I do not think there is a clear, clinical way to tease the two apart. I anticipa
 
 Lastly, perhaps the most important practical advantage of taking *duhkha* seriously is the treatment increases an individual's sense of agency rather than diminishes it as medication does. Studies show that an increased sense of agency leads to better mental health[^7]. *Duhkha* can be something each of us can overcome with meditation, and it is an empowering process. One finds confidence in actively treating themselves. In many cases, this is not possible, but in most, it is. I  am arguing for a place for meditation in addition to, and not (necessarily) in place of, existing mental health treatments. Meditation deserves a place in our medical systems and society.  
 
-## Conclusion
+### Conclusion
 Meditation is not a silver bullet for suffering, mental disorders, happiness, a good life, or for society's challenges. Non-judgmental observation of the mind and body develops self-understanding and awareness. Equipped with this perspective, one can better understand *duhkha* and as a result experience life more fully. 
 
 Western society tends to brush off its broader impact as pseudo-science in the face of "hard," "real," scientific," and "objective" knowledge. This hostility makes the already difficult task of communicating its value more difficult. Cultural prejudice and misconception prevent many from even trying it.  Meditation is one of the many vital activities one generally needs to try before they can appreciate it. When you strip away all the baggage that comes with the term and the practice, it is entirely logical. The mind is how and where we experience the world and locus of our identity. Therefore, given its importance, we should observe it closely. This practice is meditation. It is a powerful tool that is marvelously simple. 
