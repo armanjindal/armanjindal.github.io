@@ -1,7 +1,7 @@
 ---
 title:  "Pandemic and Peacefulness Part I"
 description: Reflections on Meditation and Mental Health
-last-edit: 2020-08-03
+last-edit: 2020-09-13
 date: 2020-07-24 
 words: 3,628 
 time: 14 min 30 sec
