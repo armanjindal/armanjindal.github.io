@@ -32,7 +32,7 @@ I'm building a social mapping app that brings the experience of  "cafes near me"
 ## 🚀 life
 So much of this garden reflects how I aspire to live to: **Creation & Community**. 
 
-Creativity is anything but solitary. I am learning to enjoy sucking publicly to learn, grow and get better. First by asking better questions. I enjoy dancing and working out(doors). I exercise, read, and write every day. Why? Because, in the words of the Mandalorian, **this is the way**. 
+Creativity is anything but solitary. I am learning to enjoy sucking publicly to learn, grow and get better. First by asking better questions. I enjoy dancing and working out(doors). I exercise, read, and write every day. 
 
 Here are some "[rules](digital-garden/My%20Rules%20for%20Sanity%20&%20Happiness.md)" for sanity and happiness that I've created for myself. I am an essentialist trying to eliminate everything distracting me from what matters. 
 

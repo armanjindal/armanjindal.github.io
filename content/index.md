@@ -1,17 +1,14 @@
 ---
 title: Hypertext
 ---
-Hello, you! 👋
+Hello! 👋 
 
-Welcome to my hyper-text garden 🪴 
+Welcome to my [website/digital garden](digital-garden/meta/The-Garden-Metaphor.md) 🪴
 
-This is not a blog or *personal site*. It is a [garden](digital-garden/meta/The-Garden-Metaphor.md) — a growing mass of interconnected notes. Inspired by the early internet and a desire to explore new media, I invite you to peruse at your leisure.  Here's a map to get started, but remember:
+I write about technology — how we use it and how it uses us. 
 
-> "[The map is not the territory](https://en.wikipedia.org/wiki/Map%E2%80%93territory_relation)" — [Alfred Korzybski](https://en.wikipedia.org/wiki/Alfred_Korzybski "Alfred Korzybski") 
-
-## 🗺️
 #### *Technik* (technology) 
-- [Mapping the Mapping Industry](digital-garden/technology/Mapping%20the%20Mapping%20Industry.md)
+- [The Mapping Industry](digital-garden/technology/Mapping%20the%20Mapping%20Industry.md) 
 - [Leaning Imperative](https://dev.37signals.com/leaning-imperative/) - A blog post on the 37signals Ops Team's team preference for 'imperative' infrastructure tools over declarative ones. 
 - Ongoing work... 🌿
 	- [Locating the "Power" of Power Users](digital-garden/technology/Independent%20Study/Power%20&%20Power%20User%20-%20Prospectus.md) 
@@ -35,17 +32,14 @@ This is what I am up to [now](digital-garden/now.md) and the [tools](digital-gar
 
 I am a programmer, writer, humanist-technologist, (primal) mover, and friendly human! 
 
-Philosophical qualifying: 
+I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 
-The modern human is thrown into a condition of constantly explaining ourselves to others. This can be wonderful, but it can also feel terribly oppressive. [This](https://www.youtube.com/watch?t=70&v=fR5-x7v7UkE&feature=youtu.be) scene from [Sense8](https://en.wikipedia.org/wiki/Sense8) captures the innocuous poignance of that question. 
-
-Click on my [me](digital-garden/meta/me.md) page for the longer story.  I'd ❤️ to [connect](https://armanjindal.github.io/#-connect) and hear yours. 
 ## 🔗 Connect 
 
 Please send me an email! I love meeting new people. I will reply to every email I get. If you have an opportunity where you think I will be a good fit, please do reach out. All I can promise is good questions, genuine curiosity, and that I will pay your generosity forward.  
 
-Email: arman.jindal@hey.com || arman.jindal@columbia.edu
+Email: arman@armanjindal.com
 GitHub: https://github.com/armanjindal
 LinkedIn: www.linkedin.com/in/arman-jindal
 
-Last Updated: April 14th, 2024
+Last Updated: June 21st, 2025

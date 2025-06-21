@@ -1,0 +1,3 @@
+- What does the tool do: helps you intentionally commit information to long-term memory
+- In the learning process: **encoding-storage-retrieval**
+- 

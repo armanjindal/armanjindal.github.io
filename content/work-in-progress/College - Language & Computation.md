@@ -8,11 +8,11 @@ This is a reminder page, of the many answers that I have come up with to the que
 
 The biggest mistake one can make when answering that question is to let someone else answer it or not answer it. The choice is irrelevant here. The narrative isn't. Here are some of the key realizations I have had during my time in college: 
 
-- Learning under what conditions and which questions, you can trust only **your** experience. We are surrounded by false idols and idealogy. It's tempting to outsource many of the most important questions and aspects of the human condition . Trust yourself but know when, and when not to. 
-- People — finding them, connecting with them, growing because of it, uplifting others, and allowing others to do the same. 
-- Writing and Speaking: The skills of literacy and orality are easy to take for granted. Learning to engage, seriously, with the ideas, texts and therefore, narrative that has shaped is fucking powerful. It's key to shaping your own. 
+- Learning under what conditions and which questions, you can trust only **your** experience. We are surrounded by false idols and ideology. It's tempting to outsource many of the most important questions and aspects of the human condition . Trust yourself but know when, and when not to. 
+- People — finding them, connect with them, grow with them, uplift others, and have the humility to let others to do the same. 
+- Writing and Speaking: The skills of literacy and orality are easy to take for granted. Learning to engage, seriously, with the ideas, texts and therefore, narrative that has shaped is powerful. It's key to shaping your own. 
 - Recognizing the dignity and honor in making yourself teachable. There is a pernicious discourse that speaks of college students as juveniles. This is infantilizing, and self-fulfilling and doesn't speak to the people who are excellent at what they are doing. 
-- Limits of the life of the mind  — you get first-row seats to see the paralyzed, pale, self-hating academic. You always hopefully are exposed to the ones who carry themselves with purpose and power. Who have found in their work or outside of it, sources of meaning that keep them grounded and connected to the world. The academy is a wonderful place, and its mere existence is a testament to the success of society, nothing is more insufferable than academics who forget that. 
+- Limits of the life of the mind  — you get first-row seats to see the paralyzed, pale, self-hating academic. You are also exposed to the ones who carry themselves with purpose and power. Who have found in their work or outside of it, sources of meaning that keep them grounded and connected to the world. The academy is a wonderful place, and its mere existence is a testament to the success of society, nothing is more insufferable than academics who forget that. 
 
 
 Moves - Creating (and constantly tweaking) a joint Philosophy-Computer Science Major:
