@@ -1,6 +1,13 @@
 ---
 title: was
 ---
+Updated: April 14th, 2024
+
+- Returned to NYC, hustling, building connections, and learning. My focus is finding a full time role where I can learn and grow technically and personally. 
+- Building an open source map of NYC that is updated in real-time with all the events happening in this crazy city. Event aggregation and planning meeting mapping leveraging NLP/LLM tech so I know what do when I'm done coding for the day. 
+- Writing and coding every day — by pushing a [[daily commit]]. 
+- Creating a community of technologists, writers, artists through dinner parties and events 
+
 Updated: January 13th, 2024
 
 - Building a social map that shows the "life" in NY— gigs, street artists' performances, farmers' markers — near you in time and space! Think Google Maps "cafes near me" meets RA and that community event board built in the 90s. Shoot me an email if you'd like to be an early tester. 

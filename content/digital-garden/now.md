@@ -1,15 +1,11 @@
 ---
 title: now
 ---
-Updated: April 14th, 2024
+Updated: August 24th, 2025
 
-- Returned to NYC, hustling, building connections, and learning. My focus is finding a full time role where I can learn and grow technically and personally. 
-- Building an open source map of NYC that is updated in real-time with all the events happening in this crazy city. Event aggregation and planning meeting mapping leveraging NLP/LLM tech so I know what do when I'm done coding for the day. 
-- Writing and coding every day — by pushing a [[daily commit]]. 
-- Creating a community of technologists, writers, artists through dinner parties and events 
-
- Interested or offended by anything?  🙌 Please [connect with me](https://armanjindal.github.io/#-connect). I love talking to like and alien-minded people!
-
-Page Inspired by [Derek Sivers](https://sive.rs/)
+- Working at an early stage company FiveOneFour, as their founding Forward Deployed Engineer. Immersing myself making the most powerful data engineering an AI tools work in production — while sitting next to the person who it is meant to help. 
+- Finding my way back to the joy of writing. 
+- Exploring the world for missions that call me 
+- Enjoying my time in NYC with an incredible (and growing) group of friends
 
 Here is what I [was](digital-garden/was.md) doing (a log of all my updates to the now page)

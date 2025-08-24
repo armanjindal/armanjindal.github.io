@@ -34,7 +34,7 @@ In the [wise words of John Mulaney](https://www.youtube.com/watch?v=aiqKK4ysI7g)
 
 10. Clean your room. Eliminate distraction and start with your physical space.  Let your home be a living testament to a mindset of [leaving no breadcrumbs](https://www.youtube.com/shorts/4GJFVc6NDzQ).
 
-11. Figure out your needs. It is your duty to meet them and help others meet theirs. This involves **asking** and **giving** to help. Help them meet theirs. Helping others when your needs are met are a gift. Remember this when you **request** others for help, you are giving them a gift. They GET to choose to help you, and you respect their decision regardless. 
+11. Figure out your needs. It is your duty to meet them and help others meet theirs. This involves **asking** and **giving** to help. Help them meet theirs. Helping others when your needs are met is a gift. Remember this when you **request** others for help, you are giving them a gift. They GET to choose to help you, and you respect their decision regardless. 
 
 12. Community underlies you and you it. If you can forget your radical dependence on others, it is a function of invisible work veiled by privilege. I call it facile metaphysical individualism. It takes a village to raise a child. Being raised and raising others is an integral human experience. 
 

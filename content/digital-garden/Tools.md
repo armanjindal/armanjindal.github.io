@@ -17,7 +17,6 @@ Here's a list of things I use. Tools are meant to enhance our powers of shaping 
 - [HEY](https://www.hey.com/) (email) and HEYDAY 
 - [Basecamp](https://basecamp.com/) (project management)
 - [Bitwarden](https://bitwarden.com/) (Open Source Password Manager)
-- [Marta]() (finder replacement)
 - [Alfred 5](https://www.alfredapp.com) (spotlight replacement) — Pro Supporter
 - Spotify 
 - iTerm (with zsh)

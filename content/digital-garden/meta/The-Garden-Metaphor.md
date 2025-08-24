@@ -14,9 +14,9 @@ This is intentionally (and self-indulgently) called a "garden" — not a blog.
 
 I find the metaphor of the "garden" much richer. 
 
-Gardens are a primordial place of *creation*. Unlike blogs which are comprised of distinct, complete, organized writing — gardens always chaotically grow. Comprised of a network of notes, they responding to the environment, often so slowly that the naked eye notices no difference. Like the act of *physically* gardening, writing here radically incremental. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. But one day after a good days work,  you look up (from your laptop) and see something alive. 
+Gardens are a primordial place of *creation*. Unlike blogs which are comprised of distinct, complete, organized writing — gardens always chaotically grow. Like the act of *physically* gardening, writing here radically incremental. **It isn't heroic or final.**  One is never *done* working on their garden. That would be ridiculous. But one day after a good days work,  you look up (from your laptop) and see something alive. 
 
-By gardening here, I hope to bring these pages *alive*. The best places have "life"(see:[Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)). You feel it when you walk in. Call it vibes, a feeling, energy, juju: what I call "life" is that intangible but real quality in people, places, and things. 
+By gardening here, I hope to bring these pages *alive*. The best places have "life"(see:[Timeless Way of Building](https://en.wikipedia.org/wiki/The_Timeless_Way_of_Building)). You feel it when you walk in. 
 
 Most of my pieces are *saplings.* Expect some typos, incomplete sentences, and notes with little structure. The writing here isn't my considered "final" opinion. In fact, the only certainty I have is that much will change and die. This is good. 
 
